@@ -40,8 +40,7 @@ spring:
                         enable: true
 
 
-#images:
-#    user: C:\\Users\\Hov\\Desktop\\GIT JAVA\\WorkPlace\\ot\\src\\main\\resources\\static\\images\\resource\\
-#video:
-#    user: C:\\Users\\Hov\\Desktop\\GIT JAVA\\WorkPlace\\ot\\src\\main\\resources\\static\\images\\resource\\
-baseUrl: http://localhost:8080/
+file:
+    upload:
+          dir: C:\\Users\\Hov\\Desktop\\GIT JAVA\\ProjectScope\\ProjectScope\\upload
+
